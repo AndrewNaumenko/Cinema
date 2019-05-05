@@ -1,0 +1,26 @@
+D:\projects\cinema\cinema\cinema\bin\Debug\cinema.exe.config
+D:\projects\cinema\cinema\cinema\bin\Debug\cinema.exe
+D:\projects\cinema\cinema\cinema\bin\Debug\cinema.pdb
+D:\projects\cinema\cinema\cinema\obj\Debug\cinema.csprojResolveAssemblyReference.cache
+D:\projects\cinema\cinema\cinema\obj\Debug\cinema.Form1.resources
+D:\projects\cinema\cinema\cinema\obj\Debug\cinema.Properties.Resources.resources
+D:\projects\cinema\cinema\cinema\obj\Debug\cinema.csproj.GenerateResource.Cache
+D:\projects\cinema\cinema\cinema\obj\Debug\cinema.exe
+D:\projects\cinema\cinema\cinema\obj\Debug\cinema.pdb
+D:\projects\cinema\cinema\cinema\obj\Debug\cinema.addkino.resources
+D:\projects\cinema\cinema\cinema\obj\Debug\cinema.Plan.resources
+D:\projects\cinema\cinema\cinema\obj\Debug\cinema.user.resources
+D:\projects\cinema\cinema\cinema\obj\Debug\cinema.ticket.resources
+D:\Колледж\Курсовой КИНО\cinema\cinema\bin\Debug\cinema.exe.config
+D:\Колледж\Курсовой КИНО\cinema\cinema\obj\Debug\cinema.exe
+D:\Колледж\Курсовой КИНО\cinema\cinema\obj\Debug\cinema.pdb
+D:\Колледж\Курсовой КИНО\cinema\cinema\bin\Debug\cinema.exe
+D:\Колледж\Курсовой КИНО\cinema\cinema\bin\Debug\cinema.pdb
+D:\Колледж\Курсовой КИНО\cinema\cinema\obj\Debug\cinema.csprojResolveAssemblyReference.cache
+D:\Колледж\Курсовой КИНО\cinema\cinema\obj\Debug\cinema.addkino.resources
+D:\Колледж\Курсовой КИНО\cinema\cinema\obj\Debug\cinema.Form1.resources
+D:\Колледж\Курсовой КИНО\cinema\cinema\obj\Debug\cinema.Plan.resources
+D:\Колледж\Курсовой КИНО\cinema\cinema\obj\Debug\cinema.Properties.Resources.resources
+D:\Колледж\Курсовой КИНО\cinema\cinema\obj\Debug\cinema.ticket.resources
+D:\Колледж\Курсовой КИНО\cinema\cinema\obj\Debug\cinema.user.resources
+D:\Колледж\Курсовой КИНО\cinema\cinema\obj\Debug\cinema.csproj.GenerateResource.Cache
